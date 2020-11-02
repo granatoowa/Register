@@ -1,0 +1,7 @@
+﻿  Functions.cpp
+  Lists.cpp
+  Person.cpp
+  Register.cpp
+  Generowanie kodu...
+C:\Users\granatoowa\source\repos\Register\Lists.cpp(159): warning C4715: "List_P::searchID”: niewszystkie ścieżki kodu zwracają wartość
+  Register.vcxproj -> C:\Users\granatoowa\source\repos\Register\Debug\Register.exe

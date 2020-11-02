@@ -1,0 +1,7 @@
+99101215381,matematyka,4,odp
+99101215381,matematyka,3.5,spr
+99120217386,matematyka,4.5,spr
+99081627482,fizyka,3,kart
+99020217181,matematyka,5,spr
+99020217181,fizyka,4,odp
+99101215381,matematyka,5,spr
